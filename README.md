@@ -194,16 +194,6 @@ Movie-Matcher-Flex
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-🚀 Getting Started
-1️⃣ Clone the Repository
-git clone https://github.com/suryaaxc/Movie-Matcher-Flex.git
-cd Movie-Matcher-Flex
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-3️⃣ Run the Application
-streamlit run web_app/app.py
-4️⃣ Open in Browser
-http://localhost:8501
 
 ----------------------------------------------------------------------------------------
 
