@@ -12,6 +12,8 @@ Enterprise-Scale Movie Recommendation Engine
 
 
 </p>
+
+-----------------------------------------------------------------------------------------
 🌐 Live Demo
 
 🚀 Try the application here
@@ -21,16 +23,20 @@ Enterprise-Scale Movie Recommendation Engine
 💻 Source Code
 
 👉 https://github.com/suryaaxc/Movie-Matcher-Flex
+----------------------------------------------------------------------------------------
 
 🎬 Project Overview
 
-Movie Matcher Flex is a content-based movie recommendation system designed to demonstrate how machine learning techniques can handle large-scale movie datasets efficiently.
+Movie Matcher Flex is a high-performance content-based movie recommendation system designed to demonstrate how machine learning techniques can efficiently handle large-scale movie datasets.
 
-The project processes a 2.1GB dataset containing millions of movie metadata entries and generates fast similarity-based recommendations using optimized algorithms.
+The system processes a 2.1GB dataset containing millions of movie metadata entries and generates fast similarity-based recommendations using optimized machine learning algorithms.
 
-This project highlights machine learning engineering practices, scalable data processing, and interactive application design.
+This project highlights machine learning engineering practices, scalable data processing, and interactive web application design.
 
 <img width="1840" height="839" src="https://github.com/user-attachments/assets/8bdb078c-99ac-447f-9315-d9b49f725c3c">
+
+----------------------------------------------------------------------------------------
+
 ✨ Key Features
 🎥 Smart Movie Recommendations
 
@@ -55,10 +61,11 @@ Custom Streamlit interface with neon design for a modern user experience.
 ☁️ Cloud Deployment
 
 Application deployed on Streamlit Cloud for easy access.
+----------------------------------------------------------------------------------------
 
 🧠 Machine Learning Pipeline
 
-The recommendation system follows a structured machine learning workflow:
+The recommendation engine follows a structured machine learning workflow.
 
 Movie Dataset
       │
@@ -77,6 +84,9 @@ Recommendation Engine
       │
       ▼
 Streamlit Web Interface
+
+----------------------------------------------------------------------------------------
+
 🏗️ System Architecture
         ┌─────────────────┐
         │  Movie Dataset  │
@@ -104,6 +114,9 @@ Streamlit Web Interface
          ┌─────────────┐
          │ Streamlit UI│
          └─────────────┘
+
+----------------------------------------------------------------------------------------
+
 🎨 User Interface
 
 The application includes a custom neon-styled interface designed to make movie discovery engaging and intuitive.
@@ -112,9 +125,9 @@ UI Highlights:
 
 🔍 Movie search functionality
 
-🎬 Real-time recommendations
+🎬 Real-time movie recommendations
 
-🎨 Neon-themed interface
+🎨 Neon themed interface design
 
 ⚡ Fast response time
 
@@ -123,17 +136,19 @@ UI Highlights:
 Attribute	Value
 Dataset Size	2.1 GB
 Feature Data Points	32M+
-Metadata	Genres, Cast, Keywords, Overview
+Metadata Fields	Genres, Keywords, Cast, Overview
 ⚡ Performance Optimization
 
-Several optimization techniques were applied to maintain fast performance:
+To maintain fast performance with large datasets, several optimization techniques were implemented.
 
 ✔ Sparse TF-IDF matrices
 ✔ Efficient NumPy operations
 ✔ Optimized Pandas data processing
 ✔ Precomputed similarity vectors
 
-These optimizations ensure sub-second recommendation generation.
+These techniques allow the system to deliver sub-second recommendation responses.
+
+----------------------------------------------------------------------------------------
 
 🛠️ Tech Stack
 Backend
@@ -162,6 +177,8 @@ Git LFS
 
 Streamlit Cloud
 
+----------------------------------------------------------------------------------------
+
 📂 Project Structure
 Movie-Matcher-Flex
 │
@@ -187,19 +204,25 @@ pip install -r requirements.txt
 streamlit run web_app/app.py
 4️⃣ Open in Browser
 http://localhost:8501
+
+----------------------------------------------------------------------------------------
+
 🔮 Future Improvements
 
-Possible enhancements for the project:
+Possible future upgrades for the project:
 
 Hybrid recommendation system
 
 Deep learning movie embeddings
 
-Collaborative filtering
+Collaborative filtering techniques
 
 Movie poster API integration
 
-FAISS for faster similarity search
+Faster similarity search using FAISS
+
+
+----------------------------------------------------------------------------------------
 
 👨‍💻 Author
 
@@ -209,3 +232,13 @@ B.E. Computer Science Engineering (AI/ML)
 
 🔗 GitHub
 https://github.com/suryaaxc
+
+----------------------------------------------------------------------------------------
+
+📜 License
+
+This project is licensed under the MIT License.
+
+For full license details, see the LICENSE file in this repository.
+
+🔗 https://github.com/suryaaxc/Movie-Matcher-Flex/blob/main/LICENSE
