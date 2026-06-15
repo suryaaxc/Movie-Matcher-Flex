@@ -35,7 +35,7 @@ This project highlights machine learning engineering practices, scalable data pr
 
 <img width="1840" height="839" src="https://github.com/user-attachments/assets/8bdb078c-99ac-447f-9315-d9b49f725c3c">
 
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 ✨ Key Features
 🎥 Smart Movie Recommendations
