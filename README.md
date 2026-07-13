@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=FF4D6D&center=true&vCenter=true&width=1000&lines=MOVIE+MATCHER+FLEX;ENTERPRISE-SCALE+MOVIE+RECOMMENDATION+ENGINE;TF-IDF+%7C+COSINE+SIMILARITY+%7C+STREAMLIT;2.1GB+DATASET+%7C+32M%2B+FEATURE+POINTS" />
 </p>
-
+ 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Status-Production_Ready-00FF88?style=for-the-badge"/>
